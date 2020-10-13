@@ -1,3 +1,3 @@
 # hello-world
-Derek Ingraham
-Python for Networking class
+#Derek Ingraham
+#Python for Networking class
